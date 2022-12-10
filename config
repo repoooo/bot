@@ -1,0 +1,6 @@
+TOKEN = '5965288759:AAHaO5oOCcdxa_CD44by1wY86wYhB9wagxA'
+keys = {
+    'btc' : 'BTC',
+    'eth' : 'ETH',
+    'usd' : 'USD',
+}
